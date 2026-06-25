@@ -1,0 +1,9 @@
+android-sdk/
+app/build/
+build/
+.gradle/
+cmdtools.zip
+*.zip
+local.properties
+.cxx/
+*.apk
